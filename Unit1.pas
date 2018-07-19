@@ -13,6 +13,7 @@ type
     SpeedButton2: TSpeedButton;
     ArcDial1: TArcDial;
     ArcDial2: TArcDial;
+    CornerButton1: TCornerButton;
     procedure FormShow(Sender: TObject);
   private
     { Private declarations }
