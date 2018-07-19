@@ -11,6 +11,7 @@ type
   TForm1 = class(TForm)
     SpeedButton1: TSpeedButton;
     SpeedButton2: TSpeedButton;
+    ArcDial1: TArcDial;
     procedure FormShow(Sender: TObject);
   private
     { Private declarations }
