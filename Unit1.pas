@@ -10,6 +10,7 @@ uses
 type
   TForm1 = class(TForm)
     SpeedButton1: TSpeedButton;
+    SpeedButton2: TSpeedButton;
     procedure FormShow(Sender: TObject);
   private
     { Private declarations }
