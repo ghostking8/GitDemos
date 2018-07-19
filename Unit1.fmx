@@ -9,4 +9,9 @@ object Form1: TForm1
   FormFactor.Devices = [Desktop]
   OnShow = FormShow
   DesignerMasterStyle = 0
+  object SpeedButton1: TSpeedButton
+    Position.X = 104.000000000000000000
+    Position.Y = 56.000000000000000000
+    Text = 'SpeedButton1'
+  end
 end
